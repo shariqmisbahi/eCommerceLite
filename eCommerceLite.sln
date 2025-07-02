@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerceLite", "eCommerceLite.csproj", "{0FB2E9F9-DC9D-4322-A351-B7B04CA828A6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "orderUI", "..\OrderUI\orderUI.pyproj", "{26E3A266-B24E-4B32-A9C9-D2E72620206D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "productAssistanceBot", "..\cakeAssistanceBot\productAssistanceBot.pyproj", "{9923EBD9-D4C7-4C83-8207-C5D683320C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FB2E9F9-DC9D-4322-A351-B7B04CA828A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB2E9F9-DC9D-4322-A351-B7B04CA828A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB2E9F9-DC9D-4322-A351-B7B04CA828A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB2E9F9-DC9D-4322-A351-B7B04CA828A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26E3A266-B24E-4B32-A9C9-D2E72620206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E3A266-B24E-4B32-A9C9-D2E72620206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9923EBD9-D4C7-4C83-8207-C5D683320C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9923EBD9-D4C7-4C83-8207-C5D683320C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502EBF00-877B-4FB4-8E41-BA3375336C62}
+	EndGlobalSection
+EndGlobal
